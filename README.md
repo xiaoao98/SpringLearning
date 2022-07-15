@@ -1,2 +1,2 @@
 # SpringLearning
-Learn Spring Boot！
+Learn Spring MVC and Spring Boot！
